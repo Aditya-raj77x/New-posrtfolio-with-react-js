@@ -1,10 +1,18 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# My Portfolio Site 
 
-## Available Scripts
+It's my personal Portfolio site .
+its very simple and easy going . i do not want make it very complex .
+it want to make in a way so that someone could understand all of my skills and go thoroug my projects 
 
-In the project directory, you can run:
+I like space theme so i have given it that .
+i have also added some of my social handels so if anyone wanna contect me 
+
+
+
+i have added some of my highlighted projects 
+so if find them intresting i have also atteched github repo link so you can check them out too  
+## [SEE IT LIVE](https://new-posrtfolio-with-react-js.vercel.app)
 
 ### `npm start`
 
